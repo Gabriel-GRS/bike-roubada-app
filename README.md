@@ -1,13 +1,12 @@
-# Aplicação Front-end usando Vue.js com Tailwind, Axios e possivelmente Pinia
+# Aplicação Front-end Para Movimento Bike Roubada
 
-Este é um repositório para uma aplicação front-end construída com Vue.js e utilizando Tailwind, Axios e possivelmente Pinia. O objetivo desta aplicação é fornecer uma interface para consumir os serviços fornecidos por uma API.
+O objetivo desta aplicação é fornecer uma interface para a ideia do movimento.
 
 ## Tecnologias utilizadas
 
 - Vue.js
 - Tailwind
 - Axios
-- Pinia (opcional)
 
 ### Vue.js
 
@@ -35,18 +34,15 @@ Para começar a trabalhar neste projeto, siga as instruções abaixo:
 
 1. Clone o repositório para sua máquina:
 
-git clone https://github.com/SEU-USUARIO-NOME/nome-do-repositorio.git
-
+git clone https://github.com/Gabriel-GRS/bike-roubada-app.git
 
 2. Navegue até o diretório do projeto:
 
 cd nome-do-repositorio
 
-
 3. Instale as dependências necessárias usando o npm:
 
 npm install
-
 
 4. Inicie o servidor de desenvolvimento:
 
